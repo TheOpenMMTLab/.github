@@ -27,9 +27,10 @@ Its technical foundation is the concept of **MicroModels** and their **Transform
     | [sysml-rdf-model](https://github.com/TheOpenMMTLab/sysml-rdf-model) | RDF Ontologie to model SysML | 
 
 - **Reference implementations** of MicroModel and transformation approaches  
-    | Project |      Description      |
-    | ------- | --------------------- |
-    | [mmut-orchestrator](https://github.com/TheOpenMMTLab/mmut-orchestrator) | Orchestrator for MicroModel and Transformation approach | 
+    | Project |      Description      | State |
+    | ------- | --------------------- |------ |
+    | [mmut-orchestrator](https://github.com/TheOpenMMTLab/mmut-orchestrator) | Orchestrator for MicroModel and Transformation approach | ![Tests](https://github.com/TheOpenMMTLab/mmut-orchestrator/actions/workflows/python-tests.yml/badge.svg) |
+
 
 - **Adapters** to load, store, and distribute models in storage services  
     | Project |      Description      |
