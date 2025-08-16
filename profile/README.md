@@ -4,6 +4,19 @@
 TheOpenMMTLab is a GitHub organization created in the context of the research projects **FlexiDug** and **SQuIRRL**.  
 Its technical foundation is the concept of **MicroModels** and their **Transformations**, applied in **system modeling** and **validation**, with a particular focus on safety-critical systems.
 
+## Projects
+
+### FlexiDug
+**FlexiDug** (11/2021 – 10/2024) focused on optimizing rail infrastructure in former mining regions. It used digital twins, sensor networks, and smart signaling to improve planning and management of railway networks.  
+[founded by BMDV](https://www.bmv.de/SharedDocs/DE/Artikel/DG/mfund-projekte/flexidug.html)
+
+---
+
+### SQuIRRL
+**SQuIRRL** (11/2024 – 11/2027) explores secure communication using Quantum Key Distribution (QKD) for rail, road, and air transport, enabling post-quantum secure connectivity.  
+[founded by BMFTR](https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/squirrl)
+
+
 ---
 
 ## What the Organization Contains
