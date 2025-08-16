@@ -1,4 +1,4 @@
-# The Open MicroModel Transformation Laboratory (TheOpenMMTLab)
+# The Open MicroModel and Transformation Laboratory (TheOpenMMTLab)
 
 ## Context
 TheOpenMMTLab is a GitHub organization created in the context of the research projects **FlexiDug** and **SQuIRRL**.  
