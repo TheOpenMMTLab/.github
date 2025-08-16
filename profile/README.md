@@ -8,6 +8,11 @@ Its technical foundation is the concept of **MicroModels** and their **Transform
 
 ## What the Organization Contains
 - **MicroModels, Metamodels, and Ontologies** as core research artifacts  
+    | Project |      Description      |
+    | ------- | --------------------- |
+    | [mmut-rdf-model](https://github.com/TheOpenMMTLab/mmut-rdf-model) | RDF Ontologie to model MicroModels and Transformations | 
+    | [sysml-rdf-model](https://github.com/TheOpenMMTLab/sysml-rdf-model) | RDF Ontologie to model SysML | 
+
 - **Reference implementations** of MicroModel and transformation approaches  
 - **Adapters** to load, store, and distribute models in storage services  
 - **Specialized repositories for transformations** that can transform specific models  
