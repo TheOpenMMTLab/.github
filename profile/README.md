@@ -25,6 +25,7 @@ Its technical foundation is the concept of **MicroModels** and their **Transform
     | ------- | --------------------- |
     | [mmut-rdf-model](https://github.com/TheOpenMMTLab/mmut-rdf-model) | RDF Ontologie to model MicroModels and Transformations | 
     | [sysml-rdf-model](https://github.com/TheOpenMMTLab/sysml-rdf-model) | RDF Ontologie to model SysML | 
+    | [rams_life_cycle_model]https://github.com/TheOpenMMTLab/rams_life_cycle_model | An RDF ontology for the life cycle model of DIN EN 50126 | 
 
 - **Reference implementations** of MicroModel and transformation approaches  
     | Project |      Description      | State |
@@ -57,7 +58,9 @@ Its technical foundation is the concept of **MicroModels** and their **Transform
     > 2025 IEEE 22nd International Conference on Software Architecture Companion (ICSA-C) 
 
 - **A Model/Transformation Atlas**, systematically mapping available models, metamodels, ontologies, and transformations and their interrelations 
-   - in Draft 
+    | Project |      Description      |
+    | ------- | --------------------- |
+    | [model_and_transformation_atlas](https://github.com/TheOpenMMTLab/model_and_transformation_atlas) | in draft | 
 
 ---
 
