@@ -21,15 +21,16 @@ Its technical foundation is the concept of **MicroModels** and their **Transform
 
 ## What the Organization Contains
 - **MicroModels, Metamodels, and Ontologies** as core research artifacts  
-    | Project |      Description      |
-    | ------- | --------------------- |
-    | [mmut-rdf-model](https://github.com/TheOpenMMTLab/mmut-rdf-model) | RDF Ontologie to model MicroModels and Transformations | 
-    | [sysml-rdf-model](https://github.com/TheOpenMMTLab/sysml-rdf-model) | RDF Ontologie to model SysML | 
-    | [rams_life_cycle_model](https://github.com/TheOpenMMTLab/rams_life_cycle_model) | An RDF ontology for the life cycle model of DIN EN 50126 | 
+    | Project |      Description      | State |
+    | ------- | --------------------- | ----- |
+    | [mmut-rdf-model](https://github.com/TheOpenMMTLab/mmut-rdf-model) | RDF Ontologie to model MicroModels and Transformations | ![Tests](https://github.com/TheOpenMMTLab/sysml-rdf-model/actions/workflows/release.yml/badge.svg) |
+    | [sysml-rdf-model](https://github.com/TheOpenMMTLab/mmut-rdf-model) | RDF Ontologie to model SysML | ![Tests](https://github.com/TheOpenMMTLab/sysml-rdf-model/actions/workflows/release.yml/badge.svg) |
+    | [rams_life_cycle_model](https://github.com/TheOpenMMTLab/rams_life_cycle_model) | An RDF ontology for the life cycle model of DIN EN 50126 | |
+    | [adm-rdf-model](https://github.com/TheOpenMMTLab/adm-rdf-model)| RDF Ontologie for Architectural Decision Modeling (ADM) | ![Tests](https://github.com/TheOpenMMTLab/adm-rdf-model/actions/workflows/release.yml/badge.svg) |
 
 - **Reference implementations** of MicroModel and transformation approaches  
     | Project |      Description      | State |
-    | ------- | --------------------- |------ |
+    | ------- | --------------------- | ----- |
     | [mmut-orchestrator](https://github.com/TheOpenMMTLab/mmut-orchestrator) | Orchestrator for MicroModel and Transformation approach | ![Tests](https://github.com/TheOpenMMTLab/mmut-orchestrator/actions/workflows/python-tests.yml/badge.svg) |
 
 
@@ -41,10 +42,10 @@ Its technical foundation is the concept of **MicroModels** and their **Transform
     | [push-rdf-model](https://github.com/TheOpenMMTLab/push-rdf-model) | Push RDF model to RDF triple store (e.g. Apache Jena Fuseki) | 
 
 - **Transformations** that can transform specific models  
-    | Project |      Description      |
-    | ------- | --------------------- |
+    | Project |      Description      | State |
+    | ------- | --------------------- | ----- |
     | [sysml2rdf](https://github.com/TheOpenMMTLab/sysml2rdf) | Transformation from SysML to RDF | 
-    | [parse_latex](https://github.com/TheOpenMMTLab/sysml2rdf) | Transformation from Latex requirement macro to RDF | 
+    | [parse_latex](https://github.com/TheOpenMMTLab/parse_latex) | Transformation from Latex requirement macro to RDF | ![Tests](https://github.com/TheOpenMMTLab/parse_latex/actions/workflows/python-tests.yml/badge.svg) |
 
 - **Utils** 
     | Project |      Description      |
