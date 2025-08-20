@@ -45,7 +45,7 @@ Its technical foundation is the concept of **MicroModels** and their **Transform
     | Project |      Description      | State |
     | ------- | --------------------- | ----- |
     | [sysml2rdf](https://github.com/TheOpenMMTLab/sysml2rdf) | Transformation from SysML to RDF | 
-    | [parse_latex](https://github.com/TheOpenMMTLab/parse_latex) | Transformation from Latex requirement macro to RDF | ![Tests](https://github.com/TheOpenMMTLab/parse_latex/actions/workflows/python-tests.yml/badge.svg) |
+    | [parse_latex](https://github.com/TheOpenMMTLab/parse_latex) | Transformation from Latex requirement macro to RDF | ![Tests](https://github.com/TheOpenMMTLab/parse_latex/actions/workflows/python-tests.yml/badge.svg) ![Docker](https://github.com/TheOpenMMTLab/parse_latex/actions/workflows/docker-image.yml/badge.svg) |
 
 - **Utils** 
     | Project |      Description      |
