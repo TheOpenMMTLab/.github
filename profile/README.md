@@ -28,10 +28,13 @@ Its technical foundation is the concept of **MicroModels** and their **Transform
     | [rams_life_cycle_model](https://github.com/TheOpenMMTLab/rams_life_cycle_model) | An RDF ontology for the life cycle model of DIN EN 50126 | |
     | [adm-rdf-model](https://github.com/TheOpenMMTLab/adm-rdf-model)| RDF Ontologie for Architectural Decision Modeling (ADM) | ![Tests](https://github.com/TheOpenMMTLab/adm-rdf-model/actions/workflows/release.yml/badge.svg) |
 
-- **Reference implementations** of MicroModel and transformation approaches  
+
+- **Specification and Reference implementations** of Execution System for MicroModel and Transformation approach 
     | Project |      Description      | State |
     | ------- | --------------------- | ----- |
+    | [mmut-execution-system-spec](https://github.com/TheOpenMMTLab/mmut-execution-system-spec) | Specification: Execution System for MicroModels and Transformations | Draft |
     | [mmut-orchestrator](https://github.com/TheOpenMMTLab/mmut-orchestrator) | Orchestrator for MicroModel and Transformation approach | ![Tests](https://github.com/TheOpenMMTLab/mmut-orchestrator/actions/workflows/python-tests.yml/badge.svg) |
+
 
 
 - **Adapters** to load, store, and distribute models in storage services  
